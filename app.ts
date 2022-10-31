@@ -2,5 +2,5 @@ const spiderman = (person: String) => {
     return 'Hello, ' + person;
 }
 
-let user = 'Peter Parker';
+let user = 1;
 console.log(spiderman(user));
